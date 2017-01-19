@@ -1,7 +1,11 @@
 {
 	"name": "dropfiles",
+	"description": "A simple file sharing service",
+	"licence": "MIT",
+	"repository": "https://github.com/geordieF/dropfiles",
   "dependencies": {
     "express": "^4.14.0",
-    "pug": "^2.0.0-beta6"
+    "pug": "^2.0.0-beta6",
+		"md5": "^2.2.1"
   }
 }
